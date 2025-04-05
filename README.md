@@ -28,11 +28,3 @@ Next.js | React | TailwindCSS | SSR | HTML | CSS
 Android (Java) | Android Studio
 aaPanel | CyberPanel | Linux | Bash | Git | Web Hosting
 ```
-
----
-
-### 📫 Əlaqə
-
-- 📧 E-poçt: [nicat@umuyev.com](mailto:nicat@umuyev.com)
-- 🌍 Veb sayt: [https://umuyev.com](https://umuyev.com)
-- 📍 Lokasiya: Bakı, Azərbaycan
