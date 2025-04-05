@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**nicatumuyev/nicatumuyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Salam, Mən Nicat Umuyev 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Fleet Management & Optimization Expert | Big Transport Systems Engineer @ SOCAR</b><br/>
+  GPS Monitoring • Automation • Excel • Web Development • Node.js • Android
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Haqqımda
+
+- 👨‍💻 Hal-hazırda işlədiyim sistemlər: `Fleet Optimization`, `GPS Monitorinq`, `Web və Android tətbiqlər`
+- 🏢 İş yeri: **SOCAR Nəqliyyat üzrə Böyük mühəndis**
+- ⚙️ Backend: `Node.js`, `Express`, `PHP`, `SQL`, `MySQL`, `Linux VPS`
+- 🖥️ Frontend: `Next.js 15`, `React 19`, `SSR`, `TailwindCSS`, `HTML`, `CSS`
+- 📱 Android: `Java`, `Android Studio`, `REST API` ilə əlaqə
+- 🎯 Fokus: Nəqliyyat sistemlərinin avtomatlaşdırılması və nəzarəti
+
+---
+
+### 🔧 Bacarıqlarım
+
+```
+Fleet Management | GPS Monitoring | Automation | Excel (Advanced)
+Node.js | Express | MongoDB | PHP | SQL | MySQL | REST API
+Next.js | React | TailwindCSS | SSR | HTML | CSS
+Android (Java) | Android Studio
+aaPanel | CyberPanel | Linux | Bash | Git | Web Hosting
+```
+
+---
+
+### 📫 Əlaqə
+
+- 📧 E-poçt: [nicat@umuyev.com](mailto:nicat@umuyev.com)
+- 🌍 Veb sayt: [https://umuyev.com](https://umuyev.com)
+- 📍 Lokasiya: Bakı, Azərbaycan
